@@ -24,7 +24,9 @@
         "display_name": "Thrash",
         "description": "EQUIP Thrash. FIRE to link with Thrash\u2019s mind and steer her through enemy territory. ACTIVATE to lunge forward and explode, Detaining any players in a small radius. When Thrash expires she reverts into a dormant globule. INTERACT to reclaim the globule and gain another Thrash charge after a short cooldown. Thrash can be reclaimed once."
       }
-    ]
+    ],
+    "displayIcon": "http://cdn.jsdelivr.net/gh/PRATIKK0709/KnowValorant/Agents/Images/Gekko_displayIcon.png",
+    "fullPortrait": "http://cdn.jsdelivr.net/gh/PRATIKK0709/KnowValorant/Agents/Images/Gekko_fullPortrait.png"
   },
   {
     "uuid": "dade69b4-4f5a-8528-247b-219e5a1facd6",
@@ -51,7 +53,9 @@
         "display_name": "Nightfall",
         "description": "EQUIP the power of nightmare itself. FIRE to unleash a wave of unstoppable nightmare energy. Enemies caught in the wave are Marked by terror trails, Deafened, and Decayed."
       }
-    ]
+    ],
+    "displayIcon": "http://cdn.jsdelivr.net/gh/PRATIKK0709/KnowValorant/Agents/Images/Fade_displayIcon.png",
+    "fullPortrait": "http://cdn.jsdelivr.net/gh/PRATIKK0709/KnowValorant/Agents/Images/Fade_fullPortrait.png"
   },
   {
     "uuid": "5f8d3a7f-467b-97f3-062c-13acf203c006",
@@ -78,7 +82,9 @@
         "display_name": "Rolling Thunder",
         "description": "EQUIP a Seismic Charge. FIRE to send a cascading quake through all terrain in a large cone. The quake Concusses and knocks up anyone caught in it."
       }
-    ]
+    ],
+    "displayIcon": "http://cdn.jsdelivr.net/gh/PRATIKK0709/KnowValorant/Agents/Images/Breach_displayIcon.png",
+    "fullPortrait": "http://cdn.jsdelivr.net/gh/PRATIKK0709/KnowValorant/Agents/Images/Breach_fullPortrait.png"
   },
   {
     "uuid": "cc8b64c8-4b25-4ff9-6e7f-37b4da43d235",
@@ -105,7 +111,9 @@
         "display_name": "Annihilation",
         "description": "EQUIP a Nanowire Accelerator. FIRE to unleash a pulse of nanowires that captures the first enemy contacted. The cocooned enemy is pulled along a nanowire path and will die if they reach the end, unless they are freed. The nanowire cocoon is destructible."
       }
-    ]
+    ],
+    "displayIcon": "http://cdn.jsdelivr.net/gh/PRATIKK0709/KnowValorant/Agents/Images/Deadlock_displayIcon.png",
+    "fullPortrait": "http://cdn.jsdelivr.net/gh/PRATIKK0709/KnowValorant/Agents/Images/Deadlock_fullPortrait.png"
   },
   {
     "uuid": "f94c3b30-42be-e959-889c-5aa313dba261",
@@ -132,7 +140,9 @@
         "display_name": "Showstopper",
         "description": "EQUIP a rocket launcher. FIRE to shoot a rocket that does massive area damage on contact with anything."
       }
-    ]
+    ],
+    "displayIcon": "http://cdn.jsdelivr.net/gh/PRATIKK0709/KnowValorant/Agents/Images/Raze_displayIcon.png",
+    "fullPortrait": "http://cdn.jsdelivr.net/gh/PRATIKK0709/KnowValorant/Agents/Images/Raze_fullPortrait.png"
   },
   {
     "uuid": "22697a3d-45bf-8dd7-4fec-84a9e28c69d7",
@@ -159,7 +169,9 @@
         "display_name": "Tour De Force",
         "description": "ACTIVATE to summon a powerful, custom sniper rifle that will kill an enemy with any direct hit to the upper body. ALT FIRE to aim down sights. Killing an enemy creates a lingering field that Slows players caught inside of it."
       }
-    ]
+    ],
+    "displayIcon": "http://cdn.jsdelivr.net/gh/PRATIKK0709/KnowValorant/Agents/Images/Chamber_displayIcon.png",
+    "fullPortrait": "http://cdn.jsdelivr.net/gh/PRATIKK0709/KnowValorant/Agents/Images/Chamber_fullPortrait.png"
   },
   {
     "uuid": "601dbbe7-43ce-be57-2a40-4abd24953621",
@@ -186,7 +198,9 @@
         "display_name": "NULL/cmd",
         "description": "INSTANTLY overload with polarized radianite energy that pulses from KAY/O in a massive radius. Enemies hit with pulses are Suppressed for a short duration. While overloaded, KAY/O gains Combat Stim and can be re-stabilized if downed."
       }
-    ]
+    ],
+    "displayIcon": "http://cdn.jsdelivr.net/gh/PRATIKK0709/KnowValorant/Agents/Images/KAY/O_displayIcon.png",
+    "fullPortrait": "http://cdn.jsdelivr.net/gh/PRATIKK0709/KnowValorant/Agents/Images/KAY/O_fullPortrait.png"
   },
   {
     "uuid": "6f2a04ca-43e0-be17-7f36-b3908627744d",
@@ -213,7 +227,9 @@
         "display_name": "Seekers",
         "description": "EQUIP a Seeker trinket.  FIRE to send out three Seekers to track down the three closest enemies.  If a Seeker reaches its target, it Nearsights them. Enemies can destroy the Seekers."
       }
-    ]
+    ],
+    "displayIcon": "http://cdn.jsdelivr.net/gh/PRATIKK0709/KnowValorant/Agents/Images/Skye_displayIcon.png",
+    "fullPortrait": "http://cdn.jsdelivr.net/gh/PRATIKK0709/KnowValorant/Agents/Images/Skye_fullPortrait.png"
   },
   {
     "uuid": "117ed9e3-49f3-6512-3ccf-0cada7e3823b",
@@ -240,7 +256,9 @@
         "display_name": "Neural Theft",
         "description": "INSTANTLY use on a targeted dead enemy to download information on their team.  After a brief delay, the location of all living enemy players will be Revealed twice."
       }
-    ]
+    ],
+    "displayIcon": "http://cdn.jsdelivr.net/gh/PRATIKK0709/KnowValorant/Agents/Images/Cypher_displayIcon.png",
+    "fullPortrait": "http://cdn.jsdelivr.net/gh/PRATIKK0709/KnowValorant/Agents/Images/Cypher_fullPortrait.png"
   },
   {
     "uuid": "ded3520f-4264-bfed-162d-b080e2abccf9",
@@ -272,7 +290,9 @@
         "display_name": "Uncanny Marksman",
         "description": "Sova's custom bow can fire his arrows and bounce them off terrain. Holding fire charges the bow's power, and the bolt is loosed when released. Press alt fire to change the number of bounces.Your arrows can bounce off terrain. Holding left click increases the bow's range trajectory. Right clicking Toggle through the desired number of terrain bounces by right clicking. The arrow is loosed when left click is released."
       }
-    ]
+    ],
+    "displayIcon": "http://cdn.jsdelivr.net/gh/PRATIKK0709/KnowValorant/Agents/Images/Sova_displayIcon.png",
+    "fullPortrait": "http://cdn.jsdelivr.net/gh/PRATIKK0709/KnowValorant/Agents/Images/Sova_fullPortrait.png"
   },
   {
     "uuid": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
@@ -304,7 +324,9 @@
         "display_name": "Uncanny Marksman",
         "description": "Sova's custom bow can fire his arrows and bounce them off terrain. Holding fire charges the bow's power, and the bolt is loosed when released. Press alt fire to change the number of bounces.Your arrows can bounce off terrain. Holding left click increases the bow's range trajectory. Right clicking Toggle through the desired number of terrain bounces by right clicking. The arrow is loosed when left click is released."
       }
-    ]
+    ],
+    "displayIcon": "http://cdn.jsdelivr.net/gh/PRATIKK0709/KnowValorant/Agents/Images/Sova_displayIcon.png",
+    "fullPortrait": "http://cdn.jsdelivr.net/gh/PRATIKK0709/KnowValorant/Agents/Images/Sova_fullPortrait.png"
   },
   {
     "uuid": "1e58de9c-4950-5125-93e9-a0aee9f98746",
@@ -331,7 +353,9 @@
         "display_name": "Lockdown",
         "description": "EQUIP the Lockdown device. FIRE to deploy the device. After a long windup, the device Detains all enemies caught in the radius. The device can be destroyed by enemies."
       }
-    ]
+    ],
+    "displayIcon": "http://cdn.jsdelivr.net/gh/PRATIKK0709/KnowValorant/Agents/Images/Killjoy_displayIcon.png",
+    "fullPortrait": "http://cdn.jsdelivr.net/gh/PRATIKK0709/KnowValorant/Agents/Images/Killjoy_fullPortrait.png"
   },
   {
     "uuid": "95b78ed7-4637-86d9-7e41-71ba8c293152",
@@ -358,7 +382,9 @@
         "display_name": "Reckoning",
         "description": "EQUIP the full power of your Artifact. FIRE to summon a geyser pool on the ground. Enemy players in the area are targeted by successive geyser strikes. Players caught within a strike are Concussed."
       }
-    ]
+    ],
+    "displayIcon": "http://cdn.jsdelivr.net/gh/PRATIKK0709/KnowValorant/Agents/Images/Harbor_displayIcon.png",
+    "fullPortrait": "http://cdn.jsdelivr.net/gh/PRATIKK0709/KnowValorant/Agents/Images/Harbor_fullPortrait.png"
   },
   {
     "uuid": "707eab51-4836-f488-046a-cda6bf494859",
@@ -390,7 +416,9 @@
         "display_name": "Toxic",
         "description": "You gradually generate and replenish the toxin that fuels your abilities.  Enemies that cross through Viper's Poison Cloud, Toxic Screen, or Viper's Pit are instantly inflicted with at least 30 Decay. Their Decay level increases the longer they remain in contact with it."
       }
-    ]
+    ],
+    "displayIcon": "http://cdn.jsdelivr.net/gh/PRATIKK0709/KnowValorant/Agents/Images/Viper_displayIcon.png",
+    "fullPortrait": "http://cdn.jsdelivr.net/gh/PRATIKK0709/KnowValorant/Agents/Images/Viper_fullPortrait.png"
   },
   {
     "uuid": "eb93336a-449b-9c1b-0a54-a891f7921d69",
@@ -422,7 +450,9 @@
         "display_name": "Heating Up",
         "description": "PASSIVELY Heal Phoenix instead of taking damage when standing in Phoenix's own fire"
       }
-    ]
+    ],
+    "displayIcon": "http://cdn.jsdelivr.net/gh/PRATIKK0709/KnowValorant/Agents/Images/Phoenix_displayIcon.png",
+    "fullPortrait": "http://cdn.jsdelivr.net/gh/PRATIKK0709/KnowValorant/Agents/Images/Phoenix_fullPortrait.png"
   },
   {
     "uuid": "41fb69c1-4189-7b37-f117-bcaf1e96f1bf",
@@ -454,7 +484,9 @@
         "display_name": "Astral Form",
         "description": "ACTIVATE Ultimate to enter Astral Form and PRIMARY FIRE to place Stars. Target Stars with your Nova Pulse, Nebula, or Gravity Well to use those abilities."
       }
-    ]
+    ],
+    "displayIcon": "http://cdn.jsdelivr.net/gh/PRATIKK0709/KnowValorant/Agents/Images/Astra_displayIcon.png",
+    "fullPortrait": "http://cdn.jsdelivr.net/gh/PRATIKK0709/KnowValorant/Agents/Images/Astra_fullPortrait.png"
   },
   {
     "uuid": "9f0d8ba9-4140-b941-57d3-a7ad57c6b417",
@@ -481,7 +513,9 @@
         "display_name": "Orbital Strike",
         "description": "EQUIP a tactical map. FIRE to launch a lingering orbital strike laser at the selected location, dealing high damage-over-time to players caught in the selected area."
       }
-    ]
+    ],
+    "displayIcon": "http://cdn.jsdelivr.net/gh/PRATIKK0709/KnowValorant/Agents/Images/Brimstone_displayIcon.png",
+    "fullPortrait": "http://cdn.jsdelivr.net/gh/PRATIKK0709/KnowValorant/Agents/Images/Brimstone_fullPortrait.png"
   },
   {
     "uuid": "0e38b510-41a8-5780-5e8f-568b2a4f2d6c",
@@ -508,7 +542,9 @@
         "display_name": "Contingency",
         "description": "EQUIP to assemble prismatic energy. FIRE to push an indestructible wall of energy forward that blocks bullets."
       }
-    ]
+    ],
+    "displayIcon": "http://cdn.jsdelivr.net/gh/PRATIKK0709/KnowValorant/Agents/Images/Iso_displayIcon.png",
+    "fullPortrait": "http://cdn.jsdelivr.net/gh/PRATIKK0709/KnowValorant/Agents/Images/Iso_fullPortrait.png"
   },
   {
     "uuid": "bb2a4828-46eb-8cd1-e765-15848195d751",
@@ -535,7 +571,9 @@
         "display_name": "Overdrive",
         "description": "Unleash Neon\u2019s full power and speed for a short duration. FIRE to channel the power into a deadly lightning beam with high movement accuracy."
       }
-    ]
+    ],
+    "displayIcon": "http://cdn.jsdelivr.net/gh/PRATIKK0709/KnowValorant/Agents/Images/Neon_displayIcon.png",
+    "fullPortrait": "http://cdn.jsdelivr.net/gh/PRATIKK0709/KnowValorant/Agents/Images/Neon_fullPortrait.png"
   },
   {
     "uuid": "7f94d92c-4234-0a36-9646-3a87eb8b5c89",
@@ -562,7 +600,9 @@
         "display_name": "DIMENSIONAL DRIFT",
         "description": "EQUIP a mask that can see between dimensions. FIRE to drift into Yoru's dimension, unable to be affected or seen by enemies from the outside. REACTIVATE to exit Yoru's dimension early."
       }
-    ]
+    ],
+    "displayIcon": "http://cdn.jsdelivr.net/gh/PRATIKK0709/KnowValorant/Agents/Images/Yoru_displayIcon.png",
+    "fullPortrait": "http://cdn.jsdelivr.net/gh/PRATIKK0709/KnowValorant/Agents/Images/Yoru_fullPortrait.png"
   },
   {
     "uuid": "569fdd95-4d10-43ab-ca70-79becc718b46",
@@ -589,7 +629,9 @@
         "display_name": "Resurrection",
         "description": "EQUIP a resurrection ability. FIRE with your crosshairs placed over a dead ally to begin resurrecting them. After a brief channel, the ally will be brought back to life with full health."
       }
-    ]
+    ],
+    "displayIcon": "http://cdn.jsdelivr.net/gh/PRATIKK0709/KnowValorant/Agents/Images/Sage_displayIcon.png",
+    "fullPortrait": "http://cdn.jsdelivr.net/gh/PRATIKK0709/KnowValorant/Agents/Images/Sage_fullPortrait.png"
   },
   {
     "uuid": "a3bfb853-43b2-7238-a4f1-ad90e9e46bcc",
@@ -616,7 +658,9 @@
         "display_name": "Empress",
         "description": "INSTANTLY enter a frenzy, gaining a Combat Stim that increases firing, equip and reload speed dramatically. Gain infinite charges of Soul Harvest abilities. When an enemy dies to Reyna, or dies within 3 seconds of taking damage from Reyna, the duration is renewed."
       }
-    ]
+    ],
+    "displayIcon": "http://cdn.jsdelivr.net/gh/PRATIKK0709/KnowValorant/Agents/Images/Reyna_displayIcon.png",
+    "fullPortrait": "http://cdn.jsdelivr.net/gh/PRATIKK0709/KnowValorant/Agents/Images/Reyna_fullPortrait.png"
   },
   {
     "uuid": "8e253930-4c05-31dd-1b6c-968525494517",
@@ -643,7 +687,9 @@
         "display_name": "From the Shadows",
         "description": "EQUIP a tactical map. FIRE to begin teleporting to the selected location. While teleporting, Omen will appear as a Shade that can be destroyed by an enemy to cancel his teleport, or PRESS EQUIP for Omen to cancel his teleport."
       }
-    ]
+    ],
+    "displayIcon": "http://cdn.jsdelivr.net/gh/PRATIKK0709/KnowValorant/Agents/Images/Omen_displayIcon.png",
+    "fullPortrait": "http://cdn.jsdelivr.net/gh/PRATIKK0709/KnowValorant/Agents/Images/Omen_fullPortrait.png"
   },
   {
     "uuid": "add6443a-41bd-e414-f6ad-e58d267f4e95",
@@ -675,6 +721,8 @@
         "display_name": "Drift",
         "description": "Holding the jump button while falling allows you to glide through the air."
       }
-    ]
+    ],
+    "displayIcon": "http://cdn.jsdelivr.net/gh/PRATIKK0709/KnowValorant/Agents/Images/Jett_displayIcon.png",
+    "fullPortrait": "http://cdn.jsdelivr.net/gh/PRATIKK0709/KnowValorant/Agents/Images/Jett_fullPortrait.png"
   }
 ]
